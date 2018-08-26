@@ -11,8 +11,6 @@
 * Demo:
 https://www.ibm.com/watson/services/visual-recognition/demo
 
-* Based on:
-
 ### Speakers
 * Tom Mariewicz
 * Yacine Rezgui
