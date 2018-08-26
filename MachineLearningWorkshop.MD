@@ -3,8 +3,14 @@
 
 * Session: https://360idev.com/sessions/machine-learning-on-ios-hands-on-with-ibm-watson-and-core-ml/
 
-* Example:
+* Workshop Based on: https://watson-developer-cloud.github.io/watson-vision-coreml-code-pattern/arduino/introduction.html
+
+* Session Link: http://ibm.biz/coremlworkshop
+
+* Demo:
 https://www.ibm.com/watson/services/visual-recognition/demo
+
+* Based on:
 
 ### Speakers
 * Tom Mariewicz
@@ -14,7 +20,7 @@ IBM teammates who primarily work with Watson
 
 Workshop Skill level: Beginner
 
-We will build an image recognition app we can use offline.  For working Arduino boards and ones with issues.  Can troubleshoot bad components.
+We will build an image recognition app we can use offline.  For working Arduino boards and ones with issues like burnt-out capacitors.  This can help us troubleshoot bad components.
 
 ### Getting Started with Artificial Intelligence
 Written by the Authors
@@ -45,3 +51,6 @@ Identify shoe brands (Adidas vs Nike)
 - Upload training data from real world, then download the updated model
 
 ### Workshop
+
+Go to this website:
+* http://ibm.biz/coremlworkshop
