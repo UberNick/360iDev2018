@@ -9,9 +9,7 @@ Schedule: https://360idev.com/schedule/
 
 ## Sunday, August 26th (Workshops)
 * [Custom View and Animations Workshop](AnimationWorkshop.MD)
-* XCode and Friends
 * [Machine Learning on iOS](MachineLearningWorkshop.MD)
-* Cloud Firestorm Workshop
 
 ## Monday, Aug 27th
 * Wired for Connections
@@ -23,6 +21,18 @@ Schedule: https://360idev.com/schedule/
 
 ## Tuesday, Aug 28th
 * Hindsight Can Be 50/50
+* Server Side Swift with Vapor
+* Creating a Bluetooth Toolbox
+* Is Native iOS Dev Always Best?
+* You Are Whatever You Tell People You Are
+* When Things Go Wrong
+* Development For All The People
 
 ## Wednesday, Aug 29th
 * State of the Conference
+* The Art of the Font
+* Customizing Your Notifications for iOS 12
+* Making Analytics Interesting
+* And All I Got Was This Lousy Shirt
+* State of Swift Internals
+* Fear and Loathing In the App Store
