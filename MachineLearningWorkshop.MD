@@ -61,3 +61,5 @@ We'll use Carthage (>0.29)
 Get up and take 10 images of arduino boards OR dowload them at ibm.biz/arduino_images
 
 Make sure models images are done in different backgrounds.  In one example, they tested ML on identifying Russian tanks versus American tanks.  Because all the training photos of Russian tanks were taken during the day, it tended to classify any night photos as American tanks.
+
+Negative training sets of similar items is useful.  For instance, instead of Arduinos, get Raspberry Pis and similar looking items that are close enough for relevant training.  Taking background-only images (like empty table, empty hand, etc) can also help the model know what to look for.
