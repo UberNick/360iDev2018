@@ -13,8 +13,8 @@ https://github.com/sammyd/360iDev2018_ViewAndAnimations
 * Similar:
 https://www.raywenderlich.com/6278-new-course-reproducing-popular-ios-controls
 
-* Start with "start_here" branch of cloned project
-* Open Views and Layers.playground
+Start with "start_here" branch of cloned project
+Open Views and Layers.playground
 
 To follow along, view each commit of the git repo from that point
 
