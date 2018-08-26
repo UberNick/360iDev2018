@@ -58,4 +58,4 @@ UIWindow.maxFrame is the biggest visible frame
 
 ### App Store
 
-Don't have time to get to it, but it's part of an online lesson that Razeware offers
+Don't have time to get to it, but it's part of the git repo.  It's also an online lesson that Razeware offers
