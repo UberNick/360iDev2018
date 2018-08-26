@@ -1,4 +1,4 @@
-![Image](360idev_logo.png =250x)
+![Image](360idev_logo.png =250px)
 
 # 360iDev2018
 Notes from 360|iDev 2018 Sessions
