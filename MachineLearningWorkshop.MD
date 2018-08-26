@@ -28,3 +28,17 @@ Watson is a brand over many different types of products
 - Collection of APIs for implementing AI/ML/DL
 - Integration with wide range of products/services
 - Security/privacy
+
+### IBM Watson Services for CoreML
+
+- Build apps to use Watson models on iOS (even offline)
+
+Just using the API will mean smaller app sizes.  Developer chooses when to pull down models.
+
+- Custom models
+
+Identify shoe brands (Adidas vs Nike)
+
+- Upload training data from real world, then download the updated model
+
+### Workshop
