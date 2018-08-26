@@ -14,6 +14,7 @@ https://github.com/sammyd/360iDev2018_ViewAndAnimations
 https://www.raywenderlich.com/6278-new-course-reproducing-popular-ios-controls
 
 Start with "start_here" branch of cloned project
+
 Open Views and Layers.playground
 
 To follow along, view each commit of the git repo from that point
@@ -41,15 +42,19 @@ Type "color" into XCode and choose Color Literal
 To show LiveView, click the connected-circles icon in XCode
 
 Notice that many layer changes (hidden on/off) are implicitly animated
+
   Sometimes it's an issue with layers "fighting" eachother
+
   Path needs to be explicitly animated
 
 When adding sublayers relative to something, do it to bounds
+
 When adding co-layers relative to something, do it to frame
 
 ### Maps
 
 Presenting View Controller (map view)
+
   Creates a container view in the same size as the presenting view controller
 
 Presented view controller is the one stuck on top
