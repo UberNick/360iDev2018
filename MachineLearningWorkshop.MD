@@ -3,6 +3,9 @@
 
 * Session: https://360idev.com/sessions/machine-learning-on-ios-hands-on-with-ibm-watson-and-core-ml/
 
+* Example:
+https://www.ibm.com/watson/services/visual-recognition/demo
+
 ### Speakers
 * Tom Mariewicz
 * Yacine Rezgui
