@@ -13,6 +13,7 @@ https://github.com/sammyd/360iDev2018_ViewAndAnimations
 * Start with "start_here" branch of cloned project
 * Open Views and Layers.playground
 
+To follow along, view each commit of the git repo from that point
 
 ## Three projects
 ### Express VPN shield animation
@@ -23,3 +24,23 @@ We'll build it up with CALayers
 Layers are essentially model objects that tell the system how to display a bitmap
 
 Goes to the CoreAnimation engine
+
+If you ever override drawRect, you're just overriding a CALayerDelegate
+
+CAShapeLayer
+  Special because the path isn't just the bounds like other layers
+
+UIBezierPath
+
+Type "color" into XCode and choose Color Literal
+  Smart enough to be CGColor and UIColor
+
+To show LiveView, click the connected-circles icon in XCode
+
+Notice that many layer changes (hidden on/off) are implicitly animated
+  Sometimes it's an issue with layers "fighting" eachother
+  Path needs to be explicitly animated
+
+### Maps
+
+### App Store
