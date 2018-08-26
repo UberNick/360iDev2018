@@ -18,3 +18,13 @@ Written by the Authors
 
 ### Watson Services + Core ML
 Last Spring, Apple partnered with IBM to bring Watson (IBM's visual recognition system) to iOS.
+
+GPU required to use some services.  But IBM now offers offline cloud one that's pay-by-usage.
+
+### IBM Watson
+
+Watson is a brand over many different types of products
+
+- Collection of APIs for implementing AI/ML/DL
+- Integration with wide range of products/services
+- Security/privacy
