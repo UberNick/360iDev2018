@@ -10,6 +10,9 @@ https://360idev.com/sessions/custom-view-and-animations-workshop/
 * Repo:
 https://github.com/sammyd/360iDev2018_ViewAndAnimations
 
+* Similar:
+https://www.raywenderlich.com/6278-new-course-reproducing-popular-ios-controls
+
 * Start with "start_here" branch of cloned project
 * Open Views and Layers.playground
 
@@ -41,6 +44,18 @@ Notice that many layer changes (hidden on/off) are implicitly animated
   Sometimes it's an issue with layers "fighting" eachother
   Path needs to be explicitly animated
 
+When adding sublayers relative to something, do it to bounds
+When adding co-layers relative to something, do it to frame
+
 ### Maps
 
+Presenting View Controller (map view)
+  Creates a container view in the same size as the presenting view controller
+
+Presented view controller is the one stuck on top
+
+UIWindow.maxFrame is the biggest visible frame
+
 ### App Store
+
+Don't have time to get to it, but it's part of an online lesson that Razeware offers
