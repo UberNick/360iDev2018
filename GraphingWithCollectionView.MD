@@ -6,4 +6,4 @@
 
 ### Author
 
-* Brian Miller
+**Brian Miller**
