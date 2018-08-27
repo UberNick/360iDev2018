@@ -13,7 +13,7 @@ Schedule: https://360idev.com/schedule/
 
 ## Monday, Aug 27th
 * [Wired for Connections](WiredForConnections.MD)
-* Building an A/B Testing Framework
+* [Building an A/B Testing Framework](BuildingABTesting.MD)
 * The Complicated Life of a Backgrounded iOS App
 * Unionization For Fun (and Profit)
 * From Cloak to Encrypt.me
