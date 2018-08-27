@@ -13,6 +13,7 @@ Schedule: https://360idev.com/schedule/
 
 ## Monday, Aug 27th
 * [Wired for Connections](WiredForConnections.MD)
+* [Graphing with Custom Collection View Layout](GraphingWithCollectionView.MD)
 * [Building an A/B Testing Framework](BuildingABTesting.MD)
 * [The Complicated Life of a Backgrounded iOS App](BackgroundApp.MD)
 * Unionization For Fun (and Profit)

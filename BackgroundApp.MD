@@ -58,3 +58,19 @@ Cert pinning caused some issues.  ATS requirement is that only system-trusted CA
 * Applies to whole app not one download
 
 Note that each custom authentication challenge will mean a doubled delay.
+
+You can make it happy by batching the transfers and using an auth model that doesn't require additional resumes.
+
+### Testing
+
+Testing is difficult.
+
+**Console.app**
+
+Look at nsurlsessiond logs for networking
+
+### Tips
+
+* Only use it for time insensitive work
+* Design networking layer in a way to please the RRL (including auth)
+* Master using Console.app
