@@ -6,11 +6,17 @@ There will be dragons
 
 ### Author
 
-Karl Becker CTO of ThirdIron
+**Karl Becker**
 
-Product is BrowZine
+***@karlbecker_com***
+
+* CTO of ThirdIron (thirdiron.com)
+
+* Product is BrowZine (browzine.com)
 
 Used by academics, hospitals, and others who use private journals / libraries.  Kind of like an RSS feed for relevant journals.
+
+Join Mastodon: mastodon.social/invite/rzqpmUkh
 
 ### Primary goal
 
@@ -96,6 +102,6 @@ They tried NSUserDefaults.resetStandardUserDefaults and .standard.synchronize() 
 
 ### Gold
 
-Notifications did increase usage!
+Notifications did increase usage!  Users open the app 20% more often.
 
 Android notifications get 3x as many taps.
