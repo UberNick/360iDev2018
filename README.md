@@ -12,7 +12,7 @@ Schedule: https://360idev.com/schedule/
 * [Machine Learning on iOS](MachineLearningWorkshop.MD)
 
 ## Monday, Aug 27th
-* Wired for Connections
+* [Wired for Connections](WiredForConnections.MD)
 * Building an A/B Testing Framework
 * The Complicated Life of a Backgrounded iOS App
 * Unionization For Fun (and Profit)
