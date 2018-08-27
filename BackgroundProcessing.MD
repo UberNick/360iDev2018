@@ -2,9 +2,11 @@
 
 There will be dragons
 
+* Session: https://360idev.com/sessions/background-processing-what-a-long-strange-trip/
+
 ### Author
 
-"" CTO of ""
+Karl Becker CTO of ThirdIron
 Product is BrowZine
 
 Used by academics, hospitals, and others who use private journals / libraries.  Kind of like an RSS feed for relevant journals.
@@ -54,3 +56,19 @@ If using background fetch API, be accurate and quick
 * Avoid view logic!
 
 * Use BackgroundTask
+
+Eskimo has a good post about the eccentricities of BackgroundTask
+
+Note that background fetch may start when app in foreground, so check application.applicationState explicitly if you don't want fg processing.
+
+Background processing might be interrupted by an app launch.  Don't let that happen.
+
+* Beware Force Close
+
+* Beware XCode Run
+
+Don't run the app from XCode.  Tap the icon in your device instead.
+
+* Beware airplane mode and wifi only
+
+Background processes will not run!  (...in their experience)
