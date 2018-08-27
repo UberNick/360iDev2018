@@ -17,8 +17,8 @@ Schedule: https://360idev.com/schedule/
 * [Building an A/B Testing Framework](BuildingABTesting.MD)
 * [The Complicated Life of a Backgrounded iOS App](BackgroundApp.MD)
 * [Background Processing: an Unexpected Journey](BackgroundProcessing.MD)
-* Unionization For Fun (and Profit)
-* From Cloak to Encrypt.me
+* [Unionization For Fun (and Profit)](OrganizingForDevelopers.MD)
+* [From Cloak to Encrypt.me](FromCloakToEncrypt.MD)
 * Concurrency From the Ground Up
 
 ## Tuesday, Aug 28th
