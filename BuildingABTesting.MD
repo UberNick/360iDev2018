@@ -38,3 +38,27 @@ If you don't have a lot of users, it doesn't make sense.  You need statistical i
 ### Experiment Examples
 
 First losing experiment: hover-widget.
+
+* Scheduling entry point
+* Haptic feedback
+* Promotions
+
+### Keys for Success
+
+* Objectives must be defined
+* Thinking about problems from your user's perspective
+* Learn from results
+
+"Fail early, fail often, but always fail forward" -John C Maxwell
+
+As long as we're gaining new knowledge, we're going forward.
+
+### How to be a Good Loser
+
+Deleting feature work hurts.  Losing never feels good even when you win.  Let's make it hurt less.
+
+* Lesson #1
+Understand what could go wrong and question assumptions.  Ask the product owners what goal they're trying to achieve.
+
+* Lesson #2
+GrubHub uses ?TapLytics?, but there's a number of A/B testing frameworks out there.  Syncing with things like Google Analytics is difficult.  Sometimes the frameworks can causes stability issues too, so test them out in your app.
