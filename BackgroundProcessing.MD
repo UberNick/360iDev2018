@@ -7,6 +7,7 @@ There will be dragons
 ### Author
 
 Karl Becker CTO of ThirdIron
+
 Product is BrowZine
 
 Used by academics, hospitals, and others who use private journals / libraries.  Kind of like an RSS feed for relevant journals.
@@ -80,3 +81,21 @@ Not fun for QA.
 OS decides when to do things.  "The algorithm it uses is complex"
 
 XCode Simulate Background Fetch will check if the code itself works.  To see if it works in practice, you'll just have to wait.
+
+### File access
+
+Files may not be available during bg processing
+
+* Including NSUserDefaults
+
+* NSUserDefaults may even look empty
+
+If app is launched in the background then goes to the foreground, NSUserDefaults is empty!
+
+They tried NSUserDefaults.resetStandardUserDefaults and .standard.synchronize() and still have problems.
+
+### Gold
+
+Notifications did increase usage!
+
+Android notifications get 3x as many taps.
