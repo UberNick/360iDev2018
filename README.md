@@ -16,6 +16,7 @@ Schedule: https://360idev.com/schedule/
 * [Graphing with Custom Collection View Layout](GraphingWithCollectionView.MD)
 * [Building an A/B Testing Framework](BuildingABTesting.MD)
 * [The Complicated Life of a Backgrounded iOS App](BackgroundApp.MD)
+* [Background Processing: an Unexpected Journey](BackgroundProcessing.MD)
 * Unionization For Fun (and Profit)
 * From Cloak to Encrypt.me
 * Concurrency From the Ground Up
