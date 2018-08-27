@@ -57,7 +57,7 @@ If using background fetch API, be accurate and quick
 
 * Use BackgroundTask
 
-Eskimo has a good post about the eccentricities of BackgroundTask
+Eskimo (apple developer forum user) has a good post about the eccentricities of BackgroundTask
 
 Note that background fetch may start when app in foreground, so check application.applicationState explicitly if you don't want fg processing.
 
@@ -72,3 +72,11 @@ Don't run the app from XCode.  Tap the icon in your device instead.
 * Beware airplane mode and wifi only
 
 Background processes will not run!  (...in their experience)
+
+### General erraticness
+
+Not fun for QA.  
+
+OS decides when to do things.  "The algorithm it uses is complex"
+
+XCode Simulate Background Fetch will check if the code itself works.  To see if it works in practice, you'll just have to wait.
