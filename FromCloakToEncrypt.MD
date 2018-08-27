@@ -31,7 +31,7 @@ Cloak launches in 2011 for iOS (Mac in beta only)
 
 Released in 2013 at MacWorld
 
-100% ObjC and used IPSec, which was clunky in Mac implementation
+100% ObjC and used IPSec, which was clunky in Mac implementation.  Built with 3 developers!
 
 ### Evolution
 
@@ -50,3 +50,29 @@ Apple now warns for permissions before installing a VPN.  And they're not wrong.
 ### StackPath Acquires Cloak
 
 Grew from a 3-person team to many more, including our speaker.
+
+### Road to Encrypt.me
+
+A year later, they realized the name wouldn't be able to stick.
+
+* Security vs Privacy (look at Cloak's blog)
+
+Their goal is security, not privacy.
+
+* New API
+
+To prepare for the future.  More focus on security.
+
+* Password is now **never** stored
+
+### Encrpyt.me is released
+
+Hiccups with confusing users when switching to new API.  
+
+Transferring apps was also banned for ones that supported in-app purchases.  Until Apple changed that.
+
+### Today
+
+* Team / Family accounts
+* Private endpoints
+* Self-hosted endpoints in house using Docker images
