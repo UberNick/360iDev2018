@@ -8,18 +8,19 @@ Notes from 360|iDev 2018 Sessions
 Schedule: https://360idev.com/schedule/
 
 ## Sunday, August 26th (Workshops)
-* [Custom View and Animations Workshop](AnimationWorkshop.MD)
-* [Machine Learning on iOS](MachineLearningWorkshop.MD)
+* [Custom View and Animations Workshop](AnimationWorkshop.md)
+* [Machine Learning on iOS](MachineLearningWorkshop.md)
 
 ## Monday, Aug 27th
-* [Wired for Connections](WiredForConnections.MD)
-* [Graphing with Custom Collection View Layout](GraphingWithCollectionView.MD)
-* [Building an A/B Testing Framework](BuildingABTesting.MD)
-* [The Complicated Life of a Backgrounded iOS App](BackgroundApp.MD)
-* [Background Processing: an Unexpected Journey](BackgroundProcessing.MD)
-* [Unionization For Fun (and Profit)](OrganizingForDevelopers.MD)
-* [From Cloak to Encrypt.me](FromCloakToEncrypt.MD)
-* Concurrency From the Ground Up
+* [Wired for Connections](WiredForConnections.md)
+* [Graphing with Custom Collection View Layout](GraphingWithCollectionView.md)
+* [Building an A/B Testing Framework](BuildingABTesting.md)
+* [The Complicated Life of a Backgrounded iOS App](BackgroundApp.md)
+* [A Concrete Definition of How To Go From Junior Developer To Mid-Level](MovingFromJuniorToMidLevelDeveloper.md)
+* [Background Processing: an Unexpectedly Long Journey](BackgroundProcessing.md)
+* [Unionization For Fun (and Profit)](OrganizingForDevelopers.md)
+* [From Cloak to Encrypt.me](FromCloakToEncrypt.md)
+* [Decoding Codable](DecodingCodable.md)
 
 ## Tuesday, Aug 28th
 * Hindsight Can Be 50/50
