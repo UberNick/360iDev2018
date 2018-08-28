@@ -23,7 +23,7 @@ Schedule: https://360idev.com/schedule/
 * [Decoding Codable](DecodingCodable.md)
 
 ## Tuesday, Aug 28th
-* Hindsight Can Be 50/50
+* [Hindsight Can Be 50/50](HindsightCanBe5050.md)
 * Server Side Swift with Vapor
 * Creating a Bluetooth Toolbox
 * Is Native iOS Dev Always Best?
