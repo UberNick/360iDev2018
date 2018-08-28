@@ -26,11 +26,9 @@ Schedule: https://360idev.com/schedule/
 * [Hindsight Can Be 50/50](HindsightCanBe5050.md)
 * [Server Side Swift with Vapor](ServerSideSwift.md)
 * [Firing on all cylinders: A breakdown of Firebase on iOS](FiringOnAllCylinders-ABreakdownOfFirebaseOnIOS.md)
-* Creating a Bluetooth Toolbox
-* Is Native iOS Dev Always Best?
-* You Are Whatever You Tell People You Are
-* When Things Go Wrong
-* Development For All The People
+* [Concurrency From The Ground Up](ConcurrencyFromTheGroundUp.md)
+* [Creating a Bluetooth Toolbox](CreatingABluetoothToolbox.md)
+* [Foresight is 2020](ForesightIs2020.md)
 
 ## Wednesday, Aug 29th
 * State of the Conference
