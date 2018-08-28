@@ -24,7 +24,7 @@ Schedule: https://360idev.com/schedule/
 
 ## Tuesday, Aug 28th
 * [Hindsight Can Be 50/50](HindsightCanBe5050.md)
-* Server Side Swift with Vapor
+* [Server Side Swift with Vapor](ServerSideSwift.md)
 * Creating a Bluetooth Toolbox
 * Is Native iOS Dev Always Best?
 * You Are Whatever You Tell People You Are
