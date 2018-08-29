@@ -2,11 +2,15 @@
 
 * Session: https://360idev.com/sessions/customizing-your-notifications-for-ios-12/
 
+* Demo: https://github.com/kmt901/Notifications-iOS12
+
 ### Author
 
 **Kaya Thomas**
 
 @kthomas91
+
+kayathomas.info
 
 Works at Slack focusing on messenging and accessibility.  Also worked at Apple in acccessibility.
 
@@ -80,3 +84,13 @@ Thread Identifier is a string payload.  That's where you set grouped settings.
 And Set a **Group Notification Summary** like "3 more episodes available"
 
 Notification Categories are a template
+
+### Summary
+
+Start by setting provisional notifications, so you don't have to initially ask user.
+
+Set a deep link to your notification settings.
+
+Know that custom settings can be override.
+
+Set up action callbacks for user.
