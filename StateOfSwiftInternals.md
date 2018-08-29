@@ -65,3 +65,15 @@ Witness tables are locked.  That shows which classes are connected to which prot
 Looking at output is good way to see what's happening.  First time author looked at Swift source there was a giant "FIX ME."
 
 Name-mangling is combining proterties like namespace and class into something unique.  Which is why we don't have to worry about adding namespaces to ObjC stuff.
+
+Struct Findings:
+
+* stack space is explicitly added for self
+
+* stores appear to be atomic, which is weird because we're told to make stores non-atomic
+
+### Struct LLVM IR
+
+The original types get carried over, along with some padding.
+
+What if we make them private?  Will data layouts change?
