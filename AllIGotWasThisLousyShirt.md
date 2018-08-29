@@ -1,5 +1,13 @@
 ## And All I Got Was This Lousy Shirt
 
+* Session: https://360idev.com/sessions/and-all-i-got-was-this-lousy-shirt/
+
+#### Summary
+
+A 10 year retrospective on Retro Dreamer’s experience with mobile games on iOS and Android since 2008, covering small highs, small lows, big highs, and big lows. What have we done, what went well, what went really well, and what went really badly. Where are we now, and where do we think we are going next. Retro Dreamer have released numerous games to millions of downloads over the last 10 years, occasionally had great success and also some spectacular problems, and somehow we’re still surviving. This talk will try to cover it all.
+
+### Author
+
 **Gavin Bowman** from Retro Dreamer
 
 @GavinBowman
