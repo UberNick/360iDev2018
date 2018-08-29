@@ -81,7 +81,11 @@ Our questions are things like "why are my downloads slowing?  Or why did I get a
 
 They iterate a lot.  They had over 100 different **unique** mockups.  Looked at every little thing like deciding between using text for labels vs icons.
 
-Question #1 to answer: Am I doing better or worse?  Then by how much.
+One basic core question that informed their final design.  Users either asked directly or hinted at:
+
+\#1 Am I doing better or worse?  
+
+\#2 By how much? (actual number)
 
 ### And We Animated
 
