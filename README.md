@@ -36,4 +36,3 @@ Schedule: https://360idev.com/schedule/
 * [Making Analytics Interesting](MakingAnalyticsInteresting.md)
 * [And All I Got Was This Lousy Shirt](AllIGotWasThisLousyShirt.md)
 * [State of Swift Internals](StateOfSwiftInternals.md)
-* Fear and Loathing In the App Store
