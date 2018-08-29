@@ -33,7 +33,7 @@ Schedule: https://360idev.com/schedule/
 ## Wednesday, Aug 29th
 * [The Art of the Font](ArtOfTheFont.md)
 * [Customizing Your Notifications for iOS 12](CustomizingYourNotifications.md)
-* Making Analytics Interesting
+* [Making Analytics Interesting](MakingAnalyticsInteresting.md)
 * And All I Got Was This Lousy Shirt
 * State of Swift Internals
 * Fear and Loathing In the App Store
