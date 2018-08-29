@@ -85,6 +85,36 @@ Question #1 to answer: Am I doing better or worse?  Then by how much.
 
 ### And We Animated
 
-Animate ***all the things***
+Animate ***all the things***.  Animations are always sexy, but beware of pitfalls.  It has to make sense.
 
-Pitfalls: don't take too long to complete a single animation, and make sure they're super smooth.
+Pitfalls: don't take too long to complete a single animation, and make sure they're **super** smooth.  It can't take away from the experience at all.
+
+Warning: Animating takes a lot of time and iterations to get right.  Think how much you value sleep before jumping in.
+
+### Native
+
+It's all native.  There's no way to do what they did using a framework like React Native.  They wanted to.  They tried.  People ask all the time.
+
+They're not the only ones.  Non-native is great, especially in early stages.  But it's hard, very hard, to get that smooth flow to work right not-native.
+
+### Guest Mode
+
+You can download the app and run it in "demo mode" so you can try it (and not show real data).
+
+### Takeaways
+
+* Need NOT Want
+
+Look at what the users need, not want.  They said they "wanted" to see their data, but really they just needed their questions answered.
+
+* Single path to a solution
+
+* Iterate
+
+There's no real cost to (reasonable) iterating.
+
+* Make it pretty (but also useful)
+
+Pretty without getting in the way.
+
+* Animate if you don't like sleep.
