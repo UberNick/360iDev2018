@@ -31,7 +31,7 @@ Schedule: https://360idev.com/schedule/
 * [Foresight is 2020](ForesightIs2020.md)
 
 ## Wednesday, Aug 29th
-* The Art of the Font
+* [The Art of the Font](ArtOfTheFont.md)
 * Customizing Your Notifications for iOS 12
 * Making Analytics Interesting
 * And All I Got Was This Lousy Shirt
