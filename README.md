@@ -34,6 +34,6 @@ Schedule: https://360idev.com/schedule/
 * [The Art of the Font](ArtOfTheFont.md)
 * [Customizing Your Notifications for iOS 12](CustomizingYourNotifications.md)
 * [Making Analytics Interesting](MakingAnalyticsInteresting.md)
-* And All I Got Was This Lousy Shirt
+* [And All I Got Was This Lousy Shirt](AllIGotWasThisLousyShirt.md)
 * State of Swift Internals
 * Fear and Loathing In the App Store
