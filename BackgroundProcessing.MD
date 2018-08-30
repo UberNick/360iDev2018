@@ -4,11 +4,16 @@ There will be dragons
 
 * Session: https://360idev.com/sessions/background-processing-what-a-long-strange-trip/
 
+* Slides: https://docs.google.com/presentation/d/1nY046Hv-ke9nHVtGn2-GcBa-oFJzgXcCRCHU_YFihM0/edit
+
+#### Synopsis
+Before you decide to add background processing to your app, come learn about our long, strange, but successful trip of getting background processing fully baked into our iOS app. We used background processing to pre-fetch data and fire notifications, but after a quick initial implementation, we discovered all kinds of gotchas that gave our developers’ and QA team’s hair a touch of grey. We’ll also share lessons learned comparing our iOS app to our Android app notification tap-through rates and behavior changes after we launched our background processing functionality.
+
 ### Author
 
 **Karl Becker**
 
-***@karlbecker_com***
+[@karlbecker_com](@karlbecker_com)
 
 * CTO of ThirdIron (thirdiron.com)
 
