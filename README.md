@@ -7,6 +7,12 @@ Notes from 360|iDev 2018 Sessions
 
 Schedule: https://360idev.com/schedule/
 
+Slides: https://github.com/phatblat/360iDev-Slides/ (thanks to Ben Chatelain)
+
+Videos: http://360idev.com/session-videos/
+
+Photos: https://photos.app.goo.gl/3pfZQcxKvxNZENKW9
+
 ## Sunday, August 26th (Workshops)
 * [Custom View and Animations Workshop](AnimationWorkshop.md)
 * [Machine Learning on iOS](MachineLearningWorkshop.md)

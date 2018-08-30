@@ -1,9 +1,4 @@
 # Stealing Views & Animations
-## A workshop
-
-**Sam Davies**
-
-*@iwantmyrealname*
 
 * Session Link:
 https://360idev.com/sessions/custom-view-and-animations-workshop/
@@ -13,6 +8,15 @@ https://github.com/sammyd/360iDev2018_ViewAndAnimations
 
 * Similar:
 https://www.raywenderlich.com/6278-new-course-reproducing-popular-ios-controls
+
+
+## Author
+
+**Sam Davies**
+
+*@iwantmyrealname*
+
+### Sample project
 
 Start with "start_here" branch of cloned project
 
