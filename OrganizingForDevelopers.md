@@ -18,7 +18,7 @@ Free booze, foosball can be prioritized over things like fairer pay and fairer b
 
 #### Fairer Salaries
 
-Highest salaries of iOS salaries in the country, but cost of living is below San Francisco or Boston.  Boston iOS devs get paid the national average.
+Highest salaries of iOS salaries in the country at in Seattle, but cost of living is below San Francisco or Boston.  Boston iOS devs get paid the national average despite higher cost of living.
 
 #### Safer and more stable work environments
 
